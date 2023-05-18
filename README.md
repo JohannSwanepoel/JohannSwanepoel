@@ -1,4 +1,4 @@
-Hi My name is Johann Swanepoel
+<b>Johann Swanepoel<b><br>
 Senior Web Developer
 
 I am a versatile and client-focused Web Developer offering 26 years’ experience across the IT industry. I have extensive experience in both front-end and back-end technologies, as well as managing development projects.
