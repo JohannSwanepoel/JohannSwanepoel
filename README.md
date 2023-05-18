@@ -3,10 +3,10 @@ Senior Web Developer
 
 I am a versatile and client-focused Web Developer offering 26 years’ experience across the IT industry. I have extensive experience in both front-end and back-end technologies, as well as managing development projects.
 
-🌍  I'm based in South Africa
-🖥️  See my portfolio at http://johannswanepoel.co.za
-✉️  You can contact me at johann.swanepoel@gmail.com
-🧠  I'm learning React.JS
+🌍  I'm based in South Africa<BR>
+🖥️  See my portfolio at http://johannswanepoel.co.za<BR>
+✉️  You can contact me at johann.swanepoel@gmail.com<BR>
+🧠  I'm learning React.JS<BR>
 
 ### Skills
 
