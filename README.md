@@ -8,7 +8,7 @@ I am a versatile and client-focused Web Developer offering 26 years’ experienc
 ✉️  You can contact me at johann.swanepoel@gmail.com<BR>
 🧠  I'm learning React.JS<BR>
 
-### Skills
+#### Skills
 
 
 <p align="left">
